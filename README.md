@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Priya
-- 👀 I’m interested in building tools/softwares for any projects which make this world slightly better; significant interest in computer aided drug design, chemoinfomatics,
-    molecular dynamics projects.
-- 🌱 I’m currently learning Python programming..
+- 👀 I’m interested in building tools/softwares to make this world slightly better; significant interest in application of machine learning in computer aided drug design, molecular dynamics, chemoinfomatics projects.
+- 🌱 I usually work with Python.
 - 💞️ I’m looking to collaborate on any of the projects mentioned in my interests.
-- 📫 How to reach me: 
+- 📫 How to reach me:
         Email: priyakempanna97@gmail.com
-        LinkedIn: https://www.linkedin.com/in/kpriyaa97
+        Website: kpriya97.github.io
+
 
 <!---
 kpriya97/kpriya97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
